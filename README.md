@@ -22,26 +22,7 @@
 
 ---
 
-## 💼 Experience
 
-### 🧩 Excellence Technologies — *Python Developer Intern*  
-📍 Noida | 🗓️ Jun 2025 – Present  
-- Designed and built a complete **Enterprise Resource Management (ERM)** backend.  
-- Developed modular REST APIs using **FastAPI, PostgreSQL, Celery, Redis, Docker**.  
-- Created a **Web Scraping System** (BeautifulSoup + Selenium + MongoDB).  
-- Built **AI Assistant Doc (Mr. White)** using **Ollama + ChromaDB** for semantic search.
-
-### ⚙️ Rounder Labs Pvt. Ltd. — *Python Developer Intern*  
-📍 Delhi | 🗓️ Sep 2024 – Feb 2025  
-- Improved API response times by 30% using optimized **Django** queries.  
-- Integrated 3rd-party APIs and maintained **99.9% uptime** for backend systems.
-
-### 🧠 XzectLabs Pvt. Ltd. — *Backend Developer Intern*  
-📍 Delhi | 🗓️ Jun 2024 – Aug 2024  
-- Developed backend features using **Django REST Framework**.  
-- Managed **Strapi CMS** RBAC and Git-based workflows for collaboration.  
-
----
 
 ## 🧰 Tech Stack
 
@@ -56,37 +37,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧾 Enterprise Resource Management (ERM)
-> 🧠 **Tech:** FastAPI, PostgreSQL, Redis, Celery  
-> 🔹 Designed modular APIs for payroll, attendance, assets, and performance  
-> 🔹 Implemented JWT Auth, RBAC, async background jobs  
-
-### 📄 Document Intelligence Platform  
-> ⚙️ **Tech:** Flask, Ollama, ChromaDB  
-> 🔹 Semantic document search & embeddings-based retrieval  
-> 🔹 Async task processing with Celery & Redis  
-
-### 🛒 Shop Rise (E-commerce)  
-> 🖥️ **Tech:** React + FastAPI  
-> 🔹 Integrated browsing, bidding, and cart management  
-
-### 🤖 AI Assistant Doc (Mr. White)  
-> 🧠 AI-powered assistant for document intelligence using LLMs  
-
-### 📦 Flipkart Web Scraper  
-> 🕸️ Scrapes product data using **BeautifulSoup + Selenium**, stored in MongoDB  
-
----
-
-## 🎓 Education
-
-🎓 **MCA (Master of Computer Applications)** – IGNOU (2024–2026)  
-🎓 **BA (Bachelor of Arts)** – Delhi University (2020–2023)  
-🏫 **12th (Science)** – CBSE (2020)  
-
----
 
 ## 🏅 Certifications
 
