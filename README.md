@@ -6,9 +6,8 @@
 
 <!-- Intro Section -->
 <p align="center">
-🎓 <b>MCA Student (IGNOU)</b> | 🧩 Building scalable backend systems <br>
+🧩 Building scalable backend systems <br>
 ⚡ Passionate about <b>AI, LLMs, Automation, and Trading</b> <br>
-🎯 <b>Goal:</b> Secure a full-time tech role by end of 2025 🚀
 </p>
 
 ---
